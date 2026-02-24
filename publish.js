@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'twyaplda.cc',
+	'oinmmqls.xyz',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
