@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'avcuhbcn.cc',
+	'fgfmxincw.com',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
